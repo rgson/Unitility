@@ -13,3 +13,7 @@ file, under `dependencies`:
 
 Alternatively, install and use the [UpmGitExtension] to add it from Unity's
 Package Manager GUI.
+
+
+<!-- Refs -->
+[UpmGitExtension]: https://github.com/mob-sakai/UpmGitExtension
