@@ -1,0 +1,12 @@
+{
+	"name": "se.rgson.unitility",
+	"version": "1.0.0",
+	"displayName": "Unitility",
+	"description": "Extensions, convenience functions and utilities for Unity",
+	"author": "rgson",
+	"unity": "2019.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rgson/Unitility.git"
+	}
+}
